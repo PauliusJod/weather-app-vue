@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #475569;
+}
+
+#app {
+  padding: 1rem 2rem;
+}
